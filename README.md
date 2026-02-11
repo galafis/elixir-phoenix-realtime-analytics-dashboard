@@ -1,6 +1,5 @@
 # Real-Time Analytics Dashboard with Elixir and Phoenix
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Phoenix](https://img.shields.io/badge/Phoenix-F1552A?style=for-the-badge&logo=phoenix-framework&logoColor=white) ![GenStage](https://img.shields.io/badge/GenStage-9558B2?style=for-the-badge) ![LiveView](https://img.shields.io/badge/LiveView-FD4F00?style=for-the-badge)
 
 ---
 
